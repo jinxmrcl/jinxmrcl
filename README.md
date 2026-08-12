@@ -11,10 +11,6 @@ Welcome to my GitHub profile. I enjoy building software, exploring new technolog
 * 📚 Constantly learning and improving
 * 🌍 Interested in open-source collaboration
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=jinxmrcl&theme=dark&hide_border=true)
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinxmrcl\&theme=github-dark)
