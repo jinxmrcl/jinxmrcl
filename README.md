@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Famulant
+# 👋 Hi, I'm jinxmrcl or Marcel. P
 
 ### Software Developer • Open Source Enthusiast
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I enjoy building software, exploring new technolog
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=famulant\&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinxmrcl\&theme=github-dark)
 
 ## 🌱 Currently Learning
 
