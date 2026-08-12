@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I enjoy building software, exploring new technolog
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=jinxmrcl&theme=dark&hide_border=true" alt="jinxmrcl's GitHub Stats" />
+![GitHub Stats](https://streak-stats.demolab.com?user=jinxmrcl&theme=dark&hide_border=true)
 
 ## 📈 Activity Graph
 
